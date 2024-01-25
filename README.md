@@ -19,21 +19,17 @@ layout:
 
 # 👋 Welcome!
 
-Welcome to High on Product! We're thrilled to have you here.
+Welcome to **High on Product**! We're thrilled to have you here.
 
 ## Get Started
 
-Eager to start your journey towards becoming a Product Manager? Our <mark style="background-color:green;">Getting Started</mark> page is your first step.  This no-nonsense roadmap will take you from polishing your CV to landing your dream PM role.
+Eager to begin your PM interview prep? Our **Getting Started** page is the first step - a no-nonsense roadmap from polishing your CV to landing your dream role.
 
 {% content-ref url="getting-started.md" %}
 [getting-started.md](getting-started.md)
 {% endcontent-ref %}
 
-## Library
-
-{% hint style="warning" %}
-We're still working on this - Please check back later.
-{% endhint %}
+## Library (Coming Soon)
 
 In addition to the curriculum, we've compiled some of the best PM resources from across the internet. Consider this your one-stop shop for relevant links, articles, tools, and more to supplement your learning.
 
@@ -43,7 +39,7 @@ In addition to the curriculum, we've compiled some of the best PM resources from
 
 ## Who We Are
 
-We are a team of dedicated PM enthusiasts, just like you. Drawing from our own experiences in interview preparation, we are here to guide and support you in your journey.
+We are a team of dedicated PM enthusiasts, just like you. Our own interview experiences motivate us to guide you.
 
 {% content-ref url="meet-the-team.md" %}
 [meet-the-team.md](meet-the-team.md)
@@ -53,15 +49,13 @@ If you have any questions, we're always here to help!
 
 ## Get Notified
 
-Sign up for our <mark style="background-color:green;">mailing list</mark> on Luma to get updates on new content, resources, and community events. Or receive updates on your Calendar using this [iCal subscription link](https://api.lu.ma/ics/get?entity=calendar\&id=cal-MB5HS3Q5xUTQfT4).
+Sign up for updates on new content, resources, and events by **joining our mailing list through Luma** or adding them to your Calendar using this [**iCal subscription link**](https://api.lu.ma/ics/get?entity=calendar\&id=cal-MB5HS3Q5xUTQfT4).
 
 {% embed url="https://lu.ma/hopspace" fullWidth="false" %}
 
 ## Community and Support
 
-You're not alone on this journey! Connect with fellow aspiring PMs in our community. Share advice, ask questions, participate in mock interviews, and keep each other motivated.
-
-Check out our FAQ section if you have any other common questions. This is continuously updated. For anything else, reach us through the community or at [iam@highonproduct.com](mailto:iam@highonproduct.com).
+You're not alone on this journey! Connect with fellow aspiring PMs in our community to share advice, ask questions and stay motivated. Check the **FAQs** for common questions or reach us at [iam@highonproduct.com](mailto:iam@highonproduct.com).
 
 {% content-ref url="faqs.md" %}
 [faqs.md](faqs.md)

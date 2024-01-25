@@ -5,7 +5,7 @@
 
 ## Library
 
-* [🌐 Library Home](library/library-home.md)
+* [Library Home](library/library-home.md)
 
 ***
 

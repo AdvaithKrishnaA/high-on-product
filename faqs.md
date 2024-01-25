@@ -51,3 +51,7 @@ Your dedication and enthusiasm! Participation in the cohort is completely free, 
 ## License and Distribution
 
 Learn more about how we license and allow sharing of our original materials and content.
+
+{% content-ref url="license-and-distribution.md" %}
+[license-and-distribution.md](license-and-distribution.md)
+{% endcontent-ref %}

@@ -19,3 +19,4 @@
 
 * [🤝 Meet The Team](meet-the-team.md)
 * [❓ FAQs](faqs.md)
+* [📄 License and Distribution](license-and-distribution.md)

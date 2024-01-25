@@ -60,3 +60,7 @@ You're not alone on this journey! Connect with fellow aspiring PMs in our commun
 {% content-ref url="faqs.md" %}
 [faqs.md](faqs.md)
 {% endcontent-ref %}
+
+## License and Distribution
+
+Learn more about how we license and allow sharing of our original materials and content.

@@ -4,7 +4,9 @@ description: >-
   continuously updated.
 ---
 
-# ❓ FAQs
+# ❓ Get Help
+
+## FAQs
 
 <details>
 
@@ -45,3 +47,7 @@ The cohort curriculum is designed to be completed in around 6 weeks through a co
 Your dedication and enthusiasm! Participation in the cohort is completely free, and we believe high-quality PM interview prep should be accessible to everyone.
 
 </details>
+
+## License and Distribution
+
+Learn more about how we license and allow sharing of our original materials and content.

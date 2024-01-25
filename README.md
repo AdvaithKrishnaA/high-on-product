@@ -57,10 +57,6 @@ Sign up for updates on new content, resources, and events by **joining our maili
 
 You're not alone on this journey! Connect with fellow aspiring PMs in our community to share advice, ask questions and stay motivated. Check the **FAQs** for common questions or reach us at [iam@highonproduct.com](mailto:iam@highonproduct.com).
 
-{% content-ref url="faqs.md" %}
-[faqs.md](faqs.md)
+{% content-ref url="get-help/" %}
+[get-help](get-help/)
 {% endcontent-ref %}
-
-## License and Distribution
-
-Learn more about how we license and allow sharing of our original materials and content.

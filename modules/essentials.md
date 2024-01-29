@@ -33,7 +33,7 @@
 5. Identify the root cause of the problem
 6. Prepare the problem statement
 
-Refer to the following articles for examples and more information:
+You'll find more information and some great examples in these articles below:
 
 {% embed url="https://www.figma.com/resource-library/problem-statement/" %}
 

@@ -1,4 +1,4 @@
-# Prioritization
+# 🏅 Prioritization
 
 #### Why should you prioritize as a PM?
 
@@ -18,7 +18,7 @@ If you've got the patience for long text, consider reading this blog:
 
 {% embed url="https://youtu.be/iuOrEIBVQX4" %}
 
-You ca read further at:
+You can read further at:
 
 {% embed url="https://roadmunk.com/guides/product-prioritization-techniques-product-managers/" %}
 

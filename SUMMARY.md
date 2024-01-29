@@ -5,7 +5,7 @@
 
 ## Modules
 
-* [Essentials](modules/essentials/README.md)
+* [Essentials](modules/essentials.md)
   * [What is Product Management?](modules/essentials/what-is-product-management.md)
   * [The PM Mindset](modules/essentials/the-pm-mindset.md)
   * [What is a PM trying to solve?](modules/essentials/what-is-a-pm-trying-to-solve.md)

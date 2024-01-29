@@ -32,5 +32,3 @@ You'll find more information and some great examples in these articles below:
 {% embed url="https://www.linkedin.com/pulse/step-by-step-guide-crafting-killer-problem-statements-nishant-rawat/" %}
 
 {% embed url="https://makeiterate.com/how-to-write-a-problem-statement-for-design-thinking/" %}
-
-## Understanding the User

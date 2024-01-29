@@ -51,6 +51,17 @@ First, let's understand the difference between Metrics, KPIs, and OKRs. Take a l
 
 {% embed url="https://www.splunk.com/en_us/blog/learn/okr-kpi-metrics.html" %}
 
+#### Some Commonly Used Metrics
+
+* Quantitative (numbers-focused): MAU, conversion rate, revenue
+* Qualitative (user feedback): NPS, satisfaction scores, interviews
+* Leading (predictive): New sign-ups, quality of inbound leads
+* Lagging (historical): Revenue, churn rate
+* Business: Revenue, profit margins, acquisition costs
+* Product: Adoption, retention, feature usage
+
+#### Selecting your Metrics
+
 The AARRR framework is a model for tracking and optimizing the customer journey. It categorizes metrics into the following stages:
 
 * Acquisition/Awareness - How do you acquire new users?

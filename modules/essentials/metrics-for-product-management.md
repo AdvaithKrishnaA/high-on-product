@@ -1,4 +1,4 @@
-# Metrics for Product Management
+# 📊 Metrics for Product Management
 
 Metrics are CRUCIAL for understanding your users and whether your product is delivering value. Numbers tell a story. And you need to speak that language.
 
@@ -28,3 +28,7 @@ The AARRR framework is a model for tracking and optimizing the customer journey.
 Refer to this blog to understand metrics (and selecting your metrics) in detail:
 
 {% embed url="https://mixpanel.com/blog/product-management-metrics-and-analytics/" %}
+
+{% hint style="info" %}
+We'll cover this in detail within the _**Preparing for Interviews**_ module.
+{% endhint %}

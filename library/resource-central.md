@@ -1,5 +1,19 @@
 # Resource Central
 
-{% hint style="info" %}
-We're working on this. The Library will be available by the end of Feb '24.
-{% endhint %}
+{% tabs %}
+{% tab title="Decks from Live Sessions" %}
+<table><thead><tr><th width="126">Title</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>Essentials</td><td><a href="https://drive.google.com/file/d/1aEG3WIOSQyN5OY5-2fsNsOQHcylWZnhC/view?usp=sharing">https://drive.google.com/file/d/1aEG3WIOSQyN5OY5-2fsNsOQHcylWZnhC/view?usp=sharing</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Question Banks" %}
+
+{% endtab %}
+
+{% tab title="Books" %}
+
+{% endtab %}
+
+{% tab title="Templates" %}
+
+{% endtab %}
+{% endtabs %}

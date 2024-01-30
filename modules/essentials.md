@@ -31,3 +31,9 @@ description: Let's start with the basics.
 {% content-ref url="essentials/prioritization.md" %}
 [prioritization.md](essentials/prioritization.md)
 {% endcontent-ref %}
+
+***
+
+### Deck from the Live Session on Jan 30, 2024
+
+{% embed url="https://drive.google.com/file/d/1aEG3WIOSQyN5OY5-2fsNsOQHcylWZnhC/view?usp=sharing" %}

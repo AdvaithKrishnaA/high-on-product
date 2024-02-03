@@ -7,10 +7,6 @@ Feel free to utilize tools such as FigJam or Whimsical for this endeavor (Tutori
 1. Be user-first. Imagining you're in the user's shoes (or chappal, depending on the user) helps.
 2. Don't hesitate to flex your presentation skills (Hint: emojis make boring texts like these fun :wink:)
 
-{% hint style="info" %}
-Deadline: Sun, Feb 4, 11:59 PM
-{% endhint %}
-
 ### Submit Your Solutions Here 👇
 
 {% embed url="https://tally.so/embed/nWzv9a?alignLeft=1&dynamicHeight=1&hideTitle=1&transparentBackground=1" %}

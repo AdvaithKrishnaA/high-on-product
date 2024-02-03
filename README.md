@@ -29,6 +29,12 @@ Eager to begin your PM interview prep? Our **Getting Started** page is the first
 [getting-started.md](getting-started.md)
 {% endcontent-ref %}
 
+Or start directly with **Essentials**:
+
+{% content-ref url="modules/essentials.md" %}
+[essentials.md](modules/essentials.md)
+{% endcontent-ref %}
+
 ## Library (Coming Soon)
 
 In addition to the curriculum, we've compiled some of the best PM resources from across the internet. Consider this your one-stop shop for relevant links, articles, tools, and more to supplement your learning.

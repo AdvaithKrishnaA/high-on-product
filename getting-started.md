@@ -18,6 +18,10 @@ This module will provide the baseline PM knowledge you need to build on through 
 * How to select and interpret key product metrics
 * Prioritization frameworks to determine what to build when
 
+{% content-ref url="modules/essentials.md" %}
+[essentials.md](modules/essentials.md)
+{% endcontent-ref %}
+
 ## Building Your Profile
 
 Here, you will learn structured approaches for building an attractive PM profile.
@@ -28,6 +32,10 @@ Here, you will learn structured approaches for building an attractive PM profile
 * Sample projects across domains and experience levels
 * Problem statements for potential projects you can undertake
 
+{% content-ref url="modules/building-your-profile.md" %}
+[building-your-profile.md](modules/building-your-profile.md)
+{% endcontent-ref %}
+
 ## Mastering Assessments
 
 By the end of this module, you'll be able to analyze, create high-quality decks and tackle any online/offline PM assessment confidently. You will learn:
@@ -37,6 +45,10 @@ By the end of this module, you'll be able to analyze, create high-quality decks 
 * Best practices for creating compelling decks
 * Resources and tips for SQL, aptitude and technical tests
 * Mock Tests? (Yes, you heard it right!)
+
+{% content-ref url="modules/mastering-assessments.md" %}
+[mastering-assessments.md](modules/mastering-assessments.md)
+{% endcontent-ref %}
 
 ## Preparing for Interviews
 
@@ -49,6 +61,6 @@ You will learn approaches to excel in PM interviews:
 * Roadmap to structure your preparation
 * Optimizing your LinkedIn profile and finding open off-campus opportunities
 
-
-
-\
+{% content-ref url="modules/preparing-for-interviews.md" %}
+[preparing-for-interviews.md](modules/preparing-for-interviews.md)
+{% endcontent-ref %}

@@ -17,6 +17,12 @@
 * [Mastering Assessments](modules/mastering-assessments.md)
 * [Preparing for Interviews](modules/preparing-for-interviews.md)
 
+## Tasks
+
+* [Live Tasks](tasks/live-tasks.md)
+* [Project Ideas](tasks/project-ideas.md)
+* [Archive](tasks/archive.md)
+
 ## Library
 
 * [Refresher Toolkit](library/refresher-toolkit.md)

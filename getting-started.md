@@ -32,8 +32,8 @@ Here, you will learn structured approaches for building an attractive PM profile
 * Sample projects across domains and experience levels
 * Problem statements for potential projects you can undertake
 
-{% content-ref url="modules/building-your-profile.md" %}
-[building-your-profile.md](modules/building-your-profile.md)
+{% content-ref url="modules/building-your-profile/" %}
+[building-your-profile](modules/building-your-profile/)
 {% endcontent-ref %}
 
 ## Mastering Assessments

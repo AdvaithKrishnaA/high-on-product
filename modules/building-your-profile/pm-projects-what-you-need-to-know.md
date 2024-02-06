@@ -12,10 +12,10 @@ Proof of work to show that you’ve done some work in or related to the PM field
 
 ### **What makes a good project?**
 
-* [ ] Sticking to the basics
-* [ ] Being user-first
-* [ ] Ideas are prioritized + quantifiable
-* [ ] Ties into team expectations, business value and company vision
+* [x] Sticking to the basics
+* [x] Being user-first
+* [x] Ideas are prioritized + quantifiable
+* [x] Ties into team expectations, business value and company vision
 
 {% hint style="info" %}
 Use this as a checklist in the future!
@@ -53,8 +53,8 @@ The next page will help you get started:
 
 ### **What should you do after all this?**
 
-* [ ] Make a Product Portfolio
-* [ ] Make it interesting, add a pinch of your personality, humor and emojis.
+* [x] Make a Product Portfolio
+* [x] Make it interesting, add a pinch of your personality, humor and emojis.
 
 <!---->
 

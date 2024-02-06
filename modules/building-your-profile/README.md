@@ -16,16 +16,16 @@ Building a stellar PM (Project Manager) profile is crucial, and this starts with
 [how-tos-to-get-started.md](how-tos-to-get-started.md)
 {% endcontent-ref %}
 
-Done reading? We've crafted some interesting guided project ideas for you to try out. Check **Project Ideas** later on Wed, Feb 6 to know more:
+Done reading? We've crafted some interesting guided project ideas for you to try out. Check **Project Ideas** later on Wed, Feb 7 to know more:
 
 {% content-ref url="../../tasks/project-ideas.md" %}
 [project-ideas.md](../../tasks/project-ideas.md)
 {% endcontent-ref %}
 
-The next part is improving (or building) your CV itself. We'll share resources with you to get started on Sat, Feb 10.
+The next part is improving (or building) your CV itself. We'll share resources with you to get started on Fri, Feb 10.
 
 ***
 
-### Deck from the Live Session on Feb 5, 2024
+### Deck from the Live Session on Feb 6, 2024
 
 {% embed url="https://drive.google.com/file/d/1znKSCRpEN7IVMedt0MS7YRPZ5vfNOYRH/view?usp=sharing" %}

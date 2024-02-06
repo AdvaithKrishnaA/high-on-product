@@ -22,7 +22,7 @@ Done reading? We've crafted some interesting guided project ideas for you to try
 [project-ideas.md](../../tasks/project-ideas.md)
 {% endcontent-ref %}
 
-The next part is improving (or building) your CV itself. We'll share resources with you to get started on Fri, Feb 10.
+The next part is improving (or building) your CV itself. We'll share resources with you to get started on Sat, Feb 10.
 
 ***
 

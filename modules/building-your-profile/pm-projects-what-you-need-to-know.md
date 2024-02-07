@@ -27,7 +27,7 @@ Use this as a checklist in the future!
 * You will track, iterate and improve
 * You are a true ‘manager’
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>©️ High On Product</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>©️ High On Product</p></figcaption></figure>
 
 Do read this blog by Julie Zhuo for product critique and deep insights on how to see product management in two lenses:
 

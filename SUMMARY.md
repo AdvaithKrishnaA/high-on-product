@@ -16,14 +16,17 @@
 * [Building Your Profile](modules/building-your-profile/README.md)
   * [👨💻 PM Projects: What You Need to Know](modules/building-your-profile/pm-projects-what-you-need-to-know.md)
   * [🔍 How-Tos to Get Started](modules/building-your-profile/how-tos-to-get-started.md)
+  * [🧗♂ Crafting Your Project Roadmap](modules/building-your-profile/crafting-your-project-roadmap.md)
+  * [⏭ What's next?](modules/building-your-profile/whats-next.md)
 * [Mastering Assessments](modules/mastering-assessments.md)
 * [Preparing for Interviews](modules/preparing-for-interviews.md)
 
 ## Tasks
 
 * [Live Tasks](tasks/live-tasks.md)
-* [Project Ideas](tasks/project-ideas.md)
-* [Archive](tasks/archive.md)
+* [Project Ideas](tasks/project-ideas/README.md)
+  * [1⃣ Product Improvement/Strategy](tasks/project-ideas/product-improvement-strategy.md)
+* [All Tasks](tasks/all-tasks.md)
 
 ## Library
 

@@ -16,7 +16,7 @@ In short, here's what we'll do:
 * [x] Get feedback from peers and the HOP team
 * [x] Compile projects and start working on the rest of your CV.
 
-**Also, remember to take a look at** [**Slides 8-12 from the Live Session Deck**](https://drive.google.com/file/d/1znKSCRpEN7IVMedt0MS7YRPZ5vfNOYRH/view?usp=sharing) **for tips on how to stand out while working on projects.**
+**If you haven't already, do take a look at** [**Slides 8 to 12 from the Live Session Deck**](https://drive.google.com/file/d/1znKSCRpEN7IVMedt0MS7YRPZ5vfNOYRH/view?usp=sharing) **for tips on how to stand out while working on projects.**
 
 Instead of rushing things, we suggest you to complete projects by dedicating just a few hours over the next 3-5 weeks. **But why?**
 

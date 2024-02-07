@@ -14,6 +14,8 @@ Your first project idea is live at the page below:
 [product-improvement-strategy.md](../../tasks/project-ideas/product-improvement-strategy.md)
 {% endcontent-ref %}
 
+**Need inspiration?** Refer to [how-tos-to-get-started.md](how-tos-to-get-started.md "mention")
+
 2. **Product Critique (4-7 days)**
    * [x] Select a product and gather data on key metrics,
    * [x] Analyze feature usage and user journey,

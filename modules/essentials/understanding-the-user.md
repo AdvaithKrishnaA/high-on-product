@@ -6,7 +6,7 @@ Understanding the user is done to bridge the gap between what the product offers
 
 To aid us in understanding the users, we use certain tools like “User Personas” and “User Journey Mapping”.
 
-#### How is it done?
+### How is it done?
 
 * **Researching to Know Who Your Users Are:** Utilize methods such as surveys, interviews, and market research to gather data on user demographics, behaviors, and preferences.
 * **Grouping Similar Types of Users:** Segment users based on common characteristics such as demographics, behavior patterns, or goals.&#x20;

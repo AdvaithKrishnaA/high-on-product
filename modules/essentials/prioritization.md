@@ -1,6 +1,6 @@
 # 🏅 Prioritization
 
-#### Why should you prioritize as a PM?
+### Why should you prioritize as a PM?
 
 Here's a [short and succinct thread](https://twitter.com/joulee/status/1626261919056424960) (next best thing to insta reels):
 
@@ -10,7 +10,7 @@ If you've got the patience for long text, consider reading this blog:
 
 {% embed url="https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9" %}
 
-#### Some frameworks to get started with prioritization
+### Some frameworks to get started with prioritization
 
 {% embed url="https://youtu.be/x8i2Tw1kBlM" %}
 

@@ -4,13 +4,13 @@
 >
 > \- Albert Einstein
 
-#### What is a Problem statement?
+### What is a Problem statement?
 
 * It is a simple but great way to concentrate on the key problem(s) to solve, constantly asking the ‘why’ of a specific problem or need.
 * It is NOT a solution in disguise.
 * It needs to reflect your understanding of the problem that you’re looking to solve and serve as a communication tool in ensuring that other people are on the same page with regards to the understanding of a problem.
 
-#### What goes inside defining a problem statement?
+### What goes inside defining a problem statement?
 
 1. Do background research on the:
    * Product

@@ -18,6 +18,7 @@
   * [🔍 How-Tos to Get Started](modules/building-your-profile/how-tos-to-get-started.md)
   * [🧗♂ Crafting Your Project Roadmap](modules/building-your-profile/crafting-your-project-roadmap.md)
   * [⏭ What's next?](modules/building-your-profile/whats-next.md)
+  * [📃 Building a "Non-Tech" CV](modules/building-your-profile/building-a-non-tech-cv.md)
 * [Mastering Assessments](modules/mastering-assessments.md)
 * [Preparing for Interviews](modules/preparing-for-interviews.md)
 

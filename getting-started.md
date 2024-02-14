@@ -46,8 +46,8 @@ By the end of this module, you'll be able to analyze, create high-quality decks 
 * Resources and tips for SQL, aptitude and technical tests
 * Mock Tests? (Yes, you heard it right!)
 
-{% content-ref url="modules/mastering-assessments.md" %}
-[mastering-assessments.md](modules/mastering-assessments.md)
+{% content-ref url="modules/mastering-assessments/" %}
+[mastering-assessments](modules/mastering-assessments/)
 {% endcontent-ref %}
 
 ## Preparing for Interviews

@@ -19,7 +19,11 @@
   * [🧗♂ Crafting Your Project Roadmap](modules/building-your-profile/crafting-your-project-roadmap.md)
   * [⏭ What's next?](modules/building-your-profile/whats-next.md)
   * [📃 Building a "Non-Tech" CV](modules/building-your-profile/building-a-non-tech-cv.md)
-* [Mastering Assessments](modules/mastering-assessments.md)
+* [Mastering Assessments](modules/mastering-assessments/README.md)
+  * [🧩 Aptitude](modules/mastering-assessments/aptitude.md)
+  * [📊 SQL](modules/mastering-assessments/sql/README.md)
+    * [SQL for PM Interviews](modules/mastering-assessments/sql/sql-for-pm-interviews.md)
+  * [🖼 Slide Decks and Reports](modules/mastering-assessments/slide-decks-and-reports.md)
 * [Preparing for Interviews](modules/preparing-for-interviews.md)
 
 ## Tasks

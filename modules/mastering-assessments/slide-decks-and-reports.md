@@ -7,7 +7,7 @@ description: >-
 
 # 🖼 Slide Decks and Reports
 
-### What do companies look for in PM decks?
+### What do companies look for in decks and reports?
 
 * [x] Has the candidate found an actual problem?
 * [x] Has the candidate understood the problem statement and the company’s products well?

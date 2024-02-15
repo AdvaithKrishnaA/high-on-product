@@ -31,6 +31,7 @@
 * [Live Tasks](tasks/live-tasks.md)
 * [Project Ideas](tasks/project-ideas/README.md)
   * [1⃣ Product Improvement/Strategy](tasks/project-ideas/product-improvement-strategy.md)
+  * [2⃣ Product Critique](tasks/project-ideas/product-critique.md)
 * [All Tasks](tasks/all-tasks.md)
 
 ## Library

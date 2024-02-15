@@ -23,9 +23,11 @@ Your first project idea is live at the page below:
    * [x] Identify strengths, weaknesses, and opportunities, and
    * [x] Compile findings into a presentation or report.
 
-{% hint style="info" %}
-The second and the third project will be shared after the window is over for the first and second project respectively. You can expect ideas for the second project to be released around Wed, Feb 14, 2024.
-{% endhint %}
+Done with the first project? Here's the next one:
+
+{% content-ref url="../../tasks/project-ideas/product-critique.md" %}
+[product-critique.md](../../tasks/project-ideas/product-critique.md)
+{% endcontent-ref %}
 
 3. **Optional Third Project / Converting a Tech Project (5-7 days)**\
    \

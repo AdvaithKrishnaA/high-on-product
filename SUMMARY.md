@@ -24,7 +24,8 @@
   * [📊 SQL](modules/mastering-assessments/sql/README.md)
     * [SQL for PM Interviews](modules/mastering-assessments/sql/sql-for-pm-interviews.md)
   * [🖼 Slide Decks and Reports](modules/mastering-assessments/slide-decks-and-reports.md)
-* [Preparing for Interviews](modules/preparing-for-interviews.md)
+* [Preparing for Interviews](modules/preparing-for-interviews/README.md)
+  * [Favorite Product](modules/preparing-for-interviews/favorite-product.md)
 
 ## Tasks
 

@@ -1,7 +1,7 @@
 # SQL for PM Interviews
 
 {% hint style="warning" %}
-This page will be updated and moved to [preparing-for-interviews.md](../../preparing-for-interviews.md "mention")later this month.
+This page will be updated and moved to [preparing-for-interviews](../../preparing-for-interviews/ "mention")later this month.
 {% endhint %}
 
 ### How common are SQL questions in PM interviews?

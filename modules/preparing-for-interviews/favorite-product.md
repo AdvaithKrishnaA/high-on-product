@@ -30,6 +30,8 @@ In case the interviewer takes this into a full-blown product improvement case, f
 
 {% embed url="https://www.productplan.com/glossary/circles-method/" %}
 
+Read more at: **Cracking the PM Interview (Gayle L. McDowell, Jackie Bavaro) - Chapter 14, Type 3: Favorite Product**
+
 <details>
 
 <summary>TL;DR</summary>

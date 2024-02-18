@@ -61,6 +61,6 @@ You will learn approaches to excel in PM interviews:
 * Roadmap to structure your preparation
 * Optimizing your LinkedIn profile and finding open off-campus opportunities
 
-{% content-ref url="modules/preparing-for-interviews/" %}
-[preparing-for-interviews](modules/preparing-for-interviews/)
+{% content-ref url="modules/preparing-for-interviews.md" %}
+[preparing-for-interviews.md](modules/preparing-for-interviews.md)
 {% endcontent-ref %}

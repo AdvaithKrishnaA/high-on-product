@@ -4,7 +4,7 @@ description: >-
   online assessments and some ask SQL-based questions during interviews.
 ---
 
-# 📊 SQL
+# 📊 SQL for PM Assessments
 
 ### Why SQL for PM assessments?
 
@@ -41,6 +41,16 @@ Here are the topics to cover that will equip you well for the assessments:
 
 {% embed url="https://www.datacamp.com/courses-all?number=1&technology=SQL" %}
 
+<details>
+
+<summary>If you like to watch videos instead, refer to these YouTube playlists!</summary>
+
+1. [https://youtube.com/playlist?list=PLavw5C92dz9HQQ\_COgGb7kf\_1H8UWUBxO\&feature=shared](https://youtube.com/playlist?list=PLavw5C92dz9HQQ\_COgGb7kf\_1H8UWUBxO\&feature=shared)
+2. [https://youtube.com/playlist?list=PLavw5C92dz9FD9XspliRM\_HZM\_jK7tkii\&feature=shared](https://youtube.com/playlist?list=PLavw5C92dz9FD9XspliRM\_HZM\_jK7tkii\&feature=shared)
+3. [https://youtube.com/playlist?list=PLavw5C92dz9GbmgiW4TWVnxhjMFOIf0Q7\&feature=shared](https://youtube.com/playlist?list=PLavw5C92dz9GbmgiW4TWVnxhjMFOIf0Q7\&feature=shared)
+
+</details>
+
 2. Start exploring databases on your PC using an IDE or online SQL editors. You can try Programiz's editor at [this link](https://www.programiz.com/sql/online-compiler/).
 
 {% embed url="https://www.programiz.com/sql/online-compiler/" %}
@@ -58,9 +68,9 @@ Here are the topics to cover that will equip you well for the assessments:
 
 ### SQL for PM Interviews
 
-PS - This part will be updated and moved to [preparing-for-interviews.md](../../preparing-for-interviews.md "mention")later this month.
+PS - This part will be updated and moved to [preparing-for-interviews.md](../preparing-for-interviews.md "mention")later this month.
 
-{% content-ref url="sql-for-pm-interviews.md" %}
-[sql-for-pm-interviews.md](sql-for-pm-interviews.md)
+{% content-ref url="../preparing-for-interviews/sql-for-pm-interviews.md" %}
+[sql-for-pm-interviews.md](../preparing-for-interviews/sql-for-pm-interviews.md)
 {% endcontent-ref %}
 

@@ -5,7 +5,7 @@ description: >-
   is released in a step-by-step manner.
 ---
 
-# 2⃣ Product Critique
+# 2️⃣ Product Critique
 
 A product critique is a way to evaluate a product from different angles, like how easy it is to use, its design, functionality, accessibility, and profitability. It involves doing tests, analyzing feedback, and checking its quality and design. This evaluation can be done with customers or within a team.
 
@@ -39,4 +39,4 @@ You are asked to conduct a product critique on your favorite product. The purpos
 
 [Submit at the form attached](https://tally.so/r/wvyYx8).
 
-**Deadline: TBD**
+**Deadline: March 5, 2024, EOD.**

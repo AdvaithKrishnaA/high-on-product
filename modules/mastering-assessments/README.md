@@ -8,8 +8,8 @@ description: You've made it! Let's start preparing to crack PM assessments.
 [aptitude.md](aptitude.md)
 {% endcontent-ref %}
 
-{% content-ref url="sql-for-pm-assessments.md" %}
-[sql-for-pm-assessments.md](sql-for-pm-assessments.md)
+{% content-ref url="sql/" %}
+[sql](sql/)
 {% endcontent-ref %}
 
 {% content-ref url="slide-decks-and-reports.md" %}

@@ -21,12 +21,13 @@
   * [📃 Building a "Non-Tech" CV](modules/building-your-profile/building-a-non-tech-cv.md)
 * [Mastering Assessments](modules/mastering-assessments/README.md)
   * [🧩 Aptitude](modules/mastering-assessments/aptitude.md)
-  * [📊 SQL for PM Assessments](modules/mastering-assessments/sql-for-pm-assessments.md)
+  * [📊 SQL for PM Assessments](modules/mastering-assessments/sql/README.md)
   * [🖼️ Slide Decks and Reports](modules/mastering-assessments/slide-decks-and-reports.md)
 * [Preparing for Interviews](modules/preparing-for-interviews.md)
-  * [😍 Favorite Product](modules/preparing-for-interviews/favorite-product.md)
+  * [📣 Commonly Asked Questions](modules/preparing-for-interviews/commonly-asked-questions/README.md)
+    * [😍 Favorite Product](modules/preparing-for-interviews/commonly-asked-questions/favorite-product.md)
   * [🧩 Puzzles for PM Interviews](modules/preparing-for-interviews/puzzles-for-pm-interviews.md)
-  * [📊 SQL for PM Interviews](modules/preparing-for-interviews/sql-for-pm-interviews.md)
+  * [📊 SQL for PM Interviews](modules/mastering-assessments/sql/sql-for-pm-interviews.md)
 
 ## Tasks
 

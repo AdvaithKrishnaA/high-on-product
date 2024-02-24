@@ -68,9 +68,9 @@ Here are the topics to cover that will equip you well for the assessments:
 
 ### SQL for PM Interviews
 
-PS - This part will be updated and moved to [preparing-for-interviews.md](../preparing-for-interviews.md "mention")later this month.
+PS - This part will be updated and moved to [preparing-for-interviews.md](../../preparing-for-interviews.md "mention")later this month.
 
-{% content-ref url="../preparing-for-interviews/sql-for-pm-interviews.md" %}
-[sql-for-pm-interviews.md](../preparing-for-interviews/sql-for-pm-interviews.md)
+{% content-ref url="sql-for-pm-interviews.md" %}
+[sql-for-pm-interviews.md](sql-for-pm-interviews.md)
 {% endcontent-ref %}
 

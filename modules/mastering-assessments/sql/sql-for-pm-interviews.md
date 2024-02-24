@@ -1,9 +1,5 @@
 # 📊 SQL for PM Interviews
 
-{% hint style="warning" %}
-This page will be updated and moved to [preparing-for-interviews.md](../../preparing-for-interviews.md "mention")later this month.
-{% endhint %}
-
 ### How common are SQL questions in PM interviews?
 
 While the bar for SQL skills expected of PMs is not high, having fundamental proficiency is crucial.

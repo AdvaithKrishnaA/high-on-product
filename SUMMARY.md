@@ -24,8 +24,9 @@
   * [📊 SQL for PM Assessments](modules/mastering-assessments/sql/README.md)
   * [🖼️ Slide Decks and Reports](modules/mastering-assessments/slide-decks-and-reports.md)
 * [Preparing for Interviews](modules/preparing-for-interviews.md)
-  * [📣 Commonly Asked Questions](modules/preparing-for-interviews/commonly-asked-questions/README.md)
-    * [😍 Favorite Product](modules/preparing-for-interviews/commonly-asked-questions/favorite-product.md)
+  * [📣 Commonly Asked Questions + Framework Types](modules/preparing-for-interviews/commonly-asked-questions-+-framework-types/README.md)
+    * [😍 Favorite Product](modules/preparing-for-interviews/commonly-asked-questions-+-framework-types/favorite-product.md)
+    * [🟢 CIRCLES](modules/preparing-for-interviews/commonly-asked-questions-+-framework-types/circles.md)
   * [🧩 Puzzles for PM Interviews](modules/preparing-for-interviews/puzzles-for-pm-interviews.md)
   * [📊 SQL for PM Interviews](modules/mastering-assessments/sql/sql-for-pm-interviews.md)
 

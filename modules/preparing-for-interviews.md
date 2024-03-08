@@ -4,8 +4,8 @@ description: This section is being continuously updated.
 
 # Preparing for Interviews
 
-{% content-ref url="preparing-for-interviews/commonly-asked-questions/" %}
-[commonly-asked-questions](preparing-for-interviews/commonly-asked-questions/)
+{% content-ref url="preparing-for-interviews/commonly-asked-questions-+-framework-types/" %}
+[commonly-asked-questions-+-framework-types](preparing-for-interviews/commonly-asked-questions-+-framework-types/)
 {% endcontent-ref %}
 
 {% content-ref url="preparing-for-interviews/puzzles-for-pm-interviews.md" %}

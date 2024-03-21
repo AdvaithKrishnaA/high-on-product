@@ -4,7 +4,7 @@ description: >-
   product management project with a product requirements document.
 ---
 
-# 4️⃣ Converting your existing Software Project into a PM Project
+# 4️⃣ Converting an Existing Software Project into a PM Project
 
 A general rule of thumb is you can take a 2:1 ratio in PM CVs, i.e. for every two software projects, you should have one solid PM project.
 

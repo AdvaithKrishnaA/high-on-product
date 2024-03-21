@@ -1,19 +1,15 @@
+---
+description: Currently being updated. Check back by Mar 22, 2024
+---
+
 # Resource Central
 
-{% tabs %}
-{% tab title="Decks from Live Sessions" %}
-<table><thead><tr><th width="126">Title</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>Essentials</td><td><a href="https://drive.google.com/file/d/1aEG3WIOSQyN5OY5-2fsNsOQHcylWZnhC/view?usp=sharing">https://drive.google.com/file/d/1aEG3WIOSQyN5OY5-2fsNsOQHcylWZnhC/view?usp=sharing</a></td></tr><tr><td>PM Projects</td><td><a href="https://drive.google.com/file/d/1znKSCRpEN7IVMedt0MS7YRPZ5vfNOYRH/view?usp=sharing">https://drive.google.com/file/d/1znKSCRpEN7IVMedt0MS7YRPZ5vfNOYRH/view?usp=sharing</a></td></tr></tbody></table>
-{% endtab %}
+{% embed url="https://mazedesign.notion.site/69479454c71a48c49dae6e4f8406bd9a" %}
+Maze's PM Question Bank \[You can also find their Google Sheets version at [https://docs.google.com/spreadsheets/d/1fpaFpY2j41ax3v7AgEmC2KRN56uvjaLqrXpZ7d-IHbc/copy](https://docs.google.com/spreadsheets/d/1fpaFpY2j41ax3v7AgEmC2KRN56uvjaLqrXpZ7d-IHbc/copy)]
+{% endembed %}
 
-{% tab title="Question Banks" %}
+### Lewis C Link's Question Bank
 
-{% endtab %}
+[https://docs.google.com/spreadsheets/d/1rz10oEeLx-eGnilahKczYPhGfCUzIEKL-xRnjoQ-SX4/edit#gid=1024620532](https://docs.google.com/spreadsheets/d/1rz10oEeLx-eGnilahKczYPhGfCUzIEKL-xRnjoQ-SX4/edit#gid=1024620532)
 
-{% tab title="Books" %}
-
-{% endtab %}
-
-{% tab title="Templates" %}
-
-{% endtab %}
-{% endtabs %}
+{% embed url="https://docs.google.com/spreadsheets/d/1rz10oEeLx-eGnilahKczYPhGfCUzIEKL-xRnjoQ-SX4/edit#gid=1024620532" %}

@@ -1,4 +1,4 @@
-# ⏭ What's next?
+# ⏭️ What's next?
 
 First, we'll focus on two essential starter projects:
 
@@ -10,8 +10,8 @@ First, we'll focus on two essential starter projects:
 
 Your first project idea is live at the page below:
 
-{% content-ref url="../../tasks/project-ideas/product-improvement-strategy.md" %}
-[product-improvement-strategy.md](../../tasks/project-ideas/product-improvement-strategy.md)
+{% content-ref url="../../project-ideas/product-improvement-strategy.md" %}
+[product-improvement-strategy.md](../../project-ideas/product-improvement-strategy.md)
 {% endcontent-ref %}
 
 **Need inspiration?** Refer to [how-tos-to-get-started.md](how-tos-to-get-started.md "mention")
@@ -25,10 +25,10 @@ Your first project idea is live at the page below:
 
 Done with the first project? Here's the next one:
 
-{% content-ref url="../../tasks/project-ideas/product-critique.md" %}
-[product-critique.md](../../tasks/project-ideas/product-critique.md)
+{% content-ref url="../../project-ideas/product-critique.md" %}
+[product-critique.md](../../project-ideas/product-critique.md)
 {% endcontent-ref %}
 
-3. **Optional Third Project / Converting a Tech Project (5-7 days)**\
+3. **Optional - PRD/ Converting a Tech Project (5-8 days)**\
    \
    Once you've completed the two core projects, you can round out your profile with a third effort. We'll share resources and ideas for this once you're done with the first two.

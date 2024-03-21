@@ -31,15 +31,12 @@
   * [🧩 Puzzles for PM Interviews](modules/preparing-for-interviews/puzzles-for-pm-interviews.md)
   * [📊 SQL for PM Interviews](modules/mastering-assessments/sql/sql-for-pm-interviews.md)
 
-## Tasks
+## PROJECT IDEAS
 
-* [Live Tasks](tasks/live-tasks.md)
-* [Project Ideas](tasks/project-ideas/README.md)
-  * [1️⃣ Product Improvement/Strategy](tasks/project-ideas/product-improvement-strategy.md)
-  * [2️⃣ Product Critique](tasks/project-ideas/product-critique.md)
-  * [3️⃣ Product Requirements Document](tasks/project-ideas/product-requirements-document.md)
-* [SQL Mock Test Series](https://lu.ma/sequel)
-* [All Tasks](tasks/all-tasks.md)
+* [1️⃣ Product Improvement/Strategy](project-ideas/product-improvement-strategy.md)
+* [2️⃣ Product Critique](project-ideas/product-critique.md)
+* [3️⃣ Product Requirements Document](project-ideas/product-requirements-document.md)
+* [4️⃣ Converting your existing Software Project into a PM Project](project-ideas/converting-your-existing-software-project-into-a-pm-project.md)
 
 ## Library
 

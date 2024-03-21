@@ -18,8 +18,8 @@ Building a stellar PM (Project Manager) profile is crucial, and this starts with
 
 Done reading? We've crafted some interesting guided project ideas for you to try out. Check **Project Ideas** later on Wed, Feb 7 to know more:
 
-{% content-ref url="../../tasks/project-ideas/" %}
-[project-ideas](../../tasks/project-ideas/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 The next part is improving (or building) your CV itself. We'll share resources with you to get started on Sat, Feb 10.

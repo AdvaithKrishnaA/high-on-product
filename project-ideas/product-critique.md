@@ -34,9 +34,3 @@ You are asked to conduct a product critique on your favorite product. The purpos
 3. Impact of the solution proposed
 4. Innovation
 5. Presentation skills
-
-### Submission
-
-[Submit at the form attached](https://tally.so/r/wvyYx8).
-
-**Deadline: March 5, 2024, EOD.**

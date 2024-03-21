@@ -32,3 +32,11 @@ Done with the first project? Here's the next one:
 3. **Optional - PRD/ Converting a Tech Project (5-8 days)**\
    \
    Once you've completed the two core projects, you can round out your profile with a third effort. We'll share resources and ideas for this once you're done with the first two.
+
+{% content-ref url="../../project-ideas/product-requirements-document.md" %}
+[product-requirements-document.md](../../project-ideas/product-requirements-document.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../project-ideas/converting-an-existing-software-project-into-a-pm-project.md" %}
+[converting-an-existing-software-project-into-a-pm-project.md](../../project-ideas/converting-an-existing-software-project-into-a-pm-project.md)
+{% endcontent-ref %}

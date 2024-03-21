@@ -36,7 +36,7 @@
 * [1️⃣ Product Improvement/Strategy](project-ideas/product-improvement-strategy.md)
 * [2️⃣ Product Critique](project-ideas/product-critique.md)
 * [3️⃣ Product Requirements Document](project-ideas/product-requirements-document.md)
-* [4️⃣ Converting your existing Software Project into a PM Project](project-ideas/converting-your-existing-software-project-into-a-pm-project.md)
+* [4️⃣ Converting an Existing Software Project into a PM Project](project-ideas/converting-an-existing-software-project-into-a-pm-project.md)
 
 ## Library
 

@@ -13,6 +13,12 @@ description: >-
 * A PRD establishes the boundaries of the **product's scope** (again, a good product is a well-defined one!)
 * And of course, a PRD serves as the **single source of truth** for anyone involved in product development and execution.
 
+{% hint style="success" %}
+A PRD is the "what" and "why" behind a product. Interviewers often want to assess your ability to define and communicate product requirements effectively.&#x20;
+
+Having a solid grasp of what goes into a PRD and how to structure one can showcase your skills in understanding user needs/goals, translating them into clear requirements, and aligning all stakeholders around a shared vision - which is at the heart of product management.
+{% endhint %}
+
 ### Problem Statement
 
 #### Personal Financial Management for Young Adults

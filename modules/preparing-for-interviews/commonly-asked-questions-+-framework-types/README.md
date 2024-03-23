@@ -16,3 +16,7 @@ description: This section is being continuously updated.
 [root-cause-analysis.md](root-cause-analysis.md)
 {% endcontent-ref %}
 
+{% content-ref url="product-strategy.md" %}
+[product-strategy.md](product-strategy.md)
+{% endcontent-ref %}
+

@@ -4,9 +4,9 @@ description: >-
   interviews.
 ---
 
-# 🧑‍💻 \[Optional] Tech Concepts for PM Interviews
+# 🧑‍💻 Tech Concepts for PM Interviews
 
-### System Design
+### \[Optional] System Design
 
 {% embed url="https://www.tryexponent.com/blog/system-design-interview-guide" %}
 

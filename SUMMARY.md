@@ -31,7 +31,7 @@
     * [🧠 Product Strategy](modules/preparing-for-interviews/commonly-asked-questions-+-framework-types/product-strategy.md)
   * [🧩 Puzzles for PM Interviews](modules/preparing-for-interviews/puzzles-for-pm-interviews.md)
   * [📊 SQL for PM Interviews](modules/mastering-assessments/sql/sql-for-pm-interviews.md)
-  * [🧑‍💻 \[Optional\] Tech Concepts for PM Interviews](modules/preparing-for-interviews/optional-tech-concepts-for-pm-interviews.md)
+  * [🧑‍💻 Tech Concepts for PM Interviews](modules/preparing-for-interviews/tech-concepts-for-pm-interviews.md)
 
 ## PROJECT IDEAS
 

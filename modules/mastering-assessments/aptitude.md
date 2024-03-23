@@ -13,9 +13,6 @@ Aptitude tests are conducted by almost all companies, irrespective of role, to t
 ### Where can I find resources?
 
 1. Conceptual Understanding (Playlists) - [CareerRide](https://www.youtube.com/channel/UCjDHKp8AGNucJmEBMCk0NGg)
-
-{% embed url="https://www.youtube.com/channel/UCjDHKp8AGNucJmEBMCk0NGg" %}
-
 2. **IndiaBix** for topic-wise practice and timed mock tests: [https://www.indiabix.com/](https://www.indiabix.com/)
 3. **FacePrep:** [https://www.faceprep.in/](https://www.faceprep.in/)
 4. **How2become:** [https://www.how2become.com/](https://www.how2become.com/)
@@ -25,9 +22,9 @@ Aptitude tests are conducted by almost all companies, irrespective of role, to t
 
 ### How to prepare for interviews?
 
-Try solving these puzzles:
-
-{% embed url="https://www.geeksforgeeks.org/puzzles/" %}
+{% content-ref url="../preparing-for-interviews/puzzles-for-pm-interviews.md" %}
+[puzzles-for-pm-interviews.md](../preparing-for-interviews/puzzles-for-pm-interviews.md)
+{% endcontent-ref %}
 
 ### What Next?
 

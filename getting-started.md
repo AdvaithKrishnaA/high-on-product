@@ -64,3 +64,7 @@ You will learn approaches to excel in PM interviews:
 {% content-ref url="modules/preparing-for-interviews.md" %}
 [preparing-for-interviews.md](modules/preparing-for-interviews.md)
 {% endcontent-ref %}
+
+Before proceeding, we highly recommend reading the following article:
+
+{% embed url="https://www.svpg.com/product-management-start-here/" %}

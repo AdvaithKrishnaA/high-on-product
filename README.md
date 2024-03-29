@@ -49,7 +49,7 @@ In addition to the curriculum, we've compiled some of the best PM resources from
 
 ## Get Notified
 
-Sign up for updates on new content, resources, and events by **joining our mailing list through Luma** or adding them to your Calendar using this [**iCal subscription link**](https://api.lu.ma/ics/get?entity=calendar\&id=cal-MB5HS3Q5xUTQfT4).
+Sign up for updates on new content, resources, and events by **joining our mailing list** through Luma or adding them to your Calendar using this [**iCal subscription link**](https://api.lu.ma/ics/get?entity=calendar\&id=cal-MB5HS3Q5xUTQfT4).
 
 {% embed url="https://lu.ma/hopspace" fullWidth="false" %}
 

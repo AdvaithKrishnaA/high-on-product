@@ -42,8 +42,8 @@
 
 ## Library
 
-* [Refresher Toolkit](library/refresher-toolkit.md)
-* [Resource Central](library/resource-central.md)
+* [⏩ Refresher Toolkit](library/refresher-toolkit.md)
+* [📚 Resource Central](library/resource-central.md)
 
 ***
 

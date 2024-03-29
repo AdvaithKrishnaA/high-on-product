@@ -45,8 +45,8 @@
 * [⏩ Refresher Toolkit](library/refresher-toolkit.md)
 * [📚 Resource Central](library/resource-central.md)
 
-***
+## ABOUT HOP
 
-* [🤝 Meet The Team](meet-the-team.md)
-* [❓ Get Help](faqs.md)
-  * [📄 License and Distribution](license-and-distribution.md)
+* [🤝 Meet The Team](about-hop/meet-the-team.md)
+* [❓ Get Help](about-hop/get-help/README.md)
+  * [📄 License and Distribution](about-hop/get-help/license-and-distribution.md)

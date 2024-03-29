@@ -38,7 +38,7 @@ Under the following terms:
 {% hint style="info" %}
 [High On Product (Website and Artwork) ](https://highonproduct.com/)© 2024 by [High On Product ](https://highonproduct.com/)is licensed under [Attribution-NonCommercial-NoDerivatives 4.0 International <img src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" alt="" data-size="line">](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
 
-<img src=".gitbook/assets/High On Product (Logo).svg" alt="" data-size="line"> High On Product (Logo) © 2024 by Advaith Krishna A is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visithttp://creativecommons.org/licenses/by-nc-nd/4.0/
+<img src="../../.gitbook/assets/High On Product (Logo).svg" alt="" data-size="line"> High On Product (Logo) © 2024 by Advaith Krishna A is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visithttp://creativecommons.org/licenses/by-nc-nd/4.0/
 {% endhint %}
 
 The High on Product name, logo, websites (apart from Gitbook), and artwork are under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license. You may share and redistribute these brand assets in their original form for non-commercial purposes, but cannot remix or transform them.

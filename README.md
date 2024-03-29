@@ -47,8 +47,8 @@ In addition to the curriculum, we've compiled some of the best PM resources from
 
 We are a team of dedicated PM enthusiasts, just like you. Our own interview experiences motivate us to guide you.
 
-{% content-ref url="meet-the-team.md" %}
-[meet-the-team.md](meet-the-team.md)
+{% content-ref url="about-hop/meet-the-team.md" %}
+[meet-the-team.md](about-hop/meet-the-team.md)
 {% endcontent-ref %}
 
 If you have any questions, we're always here to help!
@@ -63,6 +63,6 @@ Sign up for updates on new content, resources, and events by **joining our maili
 
 You're not alone on this journey! Connect with fellow aspiring PMs in our community to share advice, ask questions and stay motivated. Check the **FAQs** for common questions or reach us at [iam@highonproduct.com](mailto:iam@highonproduct.com).
 
-{% content-ref url="faqs.md" %}
-[faqs.md](faqs.md)
+{% content-ref url="about-hop/get-help/" %}
+[get-help](about-hop/get-help/)
 {% endcontent-ref %}

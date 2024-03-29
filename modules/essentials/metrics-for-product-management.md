@@ -28,7 +28,3 @@ The AARRR framework is a model for tracking and optimizing the customer journey.
 Refer to this blog to understand metrics (and selecting your metrics) in detail:
 
 {% embed url="https://mixpanel.com/blog/product-management-metrics-and-analytics/" %}
-
-{% hint style="info" %}
-We'll cover this in detail within the _**Preparing for Interviews**_ module.
-{% endhint %}

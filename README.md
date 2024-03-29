@@ -35,7 +35,7 @@ Or start directly with **Essentials**:
 [essentials.md](modules/essentials.md)
 {% endcontent-ref %}
 
-## Library (Coming Soon)
+## Library
 
 In addition to the curriculum, we've compiled some of the best PM resources from across the internet. Consider this your one-stop shop for relevant links, articles, tools, and more to supplement your learning.
 

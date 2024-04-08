@@ -1,6 +1,6 @@
 # 🔢 Product Metrics
 
-If you haven't already, start from here:
+If you haven't already, make sure to go through the basics:
 
 {% content-ref url="../../essentials/metrics-for-product-management.md" %}
 [metrics-for-product-management.md](../../essentials/metrics-for-product-management.md)

@@ -20,3 +20,7 @@ description: This section is being continuously updated.
 [product-strategy.md](product-strategy.md)
 {% endcontent-ref %}
 
+{% content-ref url="product-metrics.md" %}
+[product-metrics.md](product-metrics.md)
+{% endcontent-ref %}
+

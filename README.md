@@ -31,8 +31,8 @@ Eager to begin your PM interview prep? Our **Getting Started** page is the first
 
 Or start directly with **Essentials**:
 
-{% content-ref url="modules/essentials.md" %}
-[essentials.md](modules/essentials.md)
+{% content-ref url="modules/essentials/" %}
+[essentials](modules/essentials/)
 {% endcontent-ref %}
 
 ## Library

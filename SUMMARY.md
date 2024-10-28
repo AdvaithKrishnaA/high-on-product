@@ -5,7 +5,7 @@
 
 ## Modules
 
-* [Essentials](modules/essentials.md)
+* [Essentials](modules/essentials/README.md)
   * [🤔 What is Product Management?](modules/essentials/what-is-product-management.md)
   * [🧠 The PM Mindset](modules/essentials/the-pm-mindset.md)
   * [☑️ What is a PM trying to solve?](modules/essentials/what-is-a-pm-trying-to-solve.md)
@@ -21,9 +21,9 @@
   * [📃 Building a "Non-Tech" CV](modules/building-your-profile/building-a-non-tech-cv.md)
 * [Mastering Assessments](modules/mastering-assessments/README.md)
   * [🧩 Aptitude](modules/mastering-assessments/aptitude.md)
-  * [📊 SQL for PM Assessments](modules/mastering-assessments/sql/README.md)
+  * [📊 SQL for PM Assessments](modules/mastering-assessments/sql-for-pm-assessments.md)
   * [🖼️ Slide Decks and Reports](modules/mastering-assessments/slide-decks-and-reports.md)
-* [Preparing for Interviews](modules/preparing-for-interviews.md)
+* [Preparing for Interviews](modules/preparing-for-interviews/README.md)
   * [📣 Commonly Asked Questions + Framework Types](modules/preparing-for-interviews/commonly-asked-questions-+-framework-types/README.md)
     * [😍 Favorite Product](modules/preparing-for-interviews/commonly-asked-questions-+-framework-types/favorite-product.md)
     * [🟢 CIRCLES](modules/preparing-for-interviews/commonly-asked-questions-+-framework-types/circles.md)
@@ -31,7 +31,7 @@
     * [🧠 Product Strategy](modules/preparing-for-interviews/commonly-asked-questions-+-framework-types/product-strategy.md)
     * [🔢 Product Metrics](modules/preparing-for-interviews/commonly-asked-questions-+-framework-types/product-metrics.md)
   * [🧩 Puzzles for PM Interviews](modules/preparing-for-interviews/puzzles-for-pm-interviews.md)
-  * [📊 SQL for PM Interviews](modules/mastering-assessments/sql/sql-for-pm-interviews.md)
+  * [📊 SQL for PM Interviews](modules/preparing-for-interviews/sql-for-pm-interviews.md)
   * [🧑‍💻 Tech Concepts for PM Interviews](modules/preparing-for-interviews/tech-concepts-for-pm-interviews.md)
 
 ## PROJECT IDEAS
@@ -39,7 +39,7 @@
 * [1️⃣ Product Improvement/Strategy](project-ideas/product-improvement-strategy.md)
 * [2️⃣ Product Critique](project-ideas/product-critique.md)
 * [3️⃣ Product Requirements Document](project-ideas/product-requirements-document.md)
-* [4️⃣ Converting an Existing Software Project into a PM Project](project-ideas/converting-your-existing-software-project-into-a-pm-project.md)
+* [4️⃣ Converting an Existing Software Project into a PM Project](project-ideas/converting-an-existing-software-project-into-a-pm-project.md)
 
 ## Library
 

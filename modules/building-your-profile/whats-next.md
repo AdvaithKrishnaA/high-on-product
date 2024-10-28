@@ -37,6 +37,6 @@ Done with the first project? Here's the next one:
 [product-requirements-document.md](../../project-ideas/product-requirements-document.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../project-ideas/converting-your-existing-software-project-into-a-pm-project.md" %}
-[converting-your-existing-software-project-into-a-pm-project.md](../../project-ideas/converting-your-existing-software-project-into-a-pm-project.md)
+{% content-ref url="../../project-ideas/converting-an-existing-software-project-into-a-pm-project.md" %}
+[converting-an-existing-software-project-into-a-pm-project.md](../../project-ideas/converting-an-existing-software-project-into-a-pm-project.md)
 {% endcontent-ref %}

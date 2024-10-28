@@ -18,8 +18,8 @@ This module will provide the baseline PM knowledge you need to build on through 
 * How to select and interpret key product metrics
 * Prioritization frameworks to determine what to build when
 
-{% content-ref url="modules/essentials.md" %}
-[essentials.md](modules/essentials.md)
+{% content-ref url="modules/essentials/" %}
+[essentials](modules/essentials/)
 {% endcontent-ref %}
 
 ## Building Your Profile
@@ -61,8 +61,8 @@ You will learn approaches to excel in PM interviews:
 * Roadmap to structure your preparation
 * Optimizing your LinkedIn profile and finding open off-campus opportunities
 
-{% content-ref url="modules/preparing-for-interviews.md" %}
-[preparing-for-interviews.md](modules/preparing-for-interviews.md)
+{% content-ref url="modules/preparing-for-interviews/" %}
+[preparing-for-interviews](modules/preparing-for-interviews/)
 {% endcontent-ref %}
 
 Before proceeding, we highly recommend reading the following article:
